@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lod34
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python, C++, Java
